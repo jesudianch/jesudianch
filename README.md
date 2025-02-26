@@ -6,8 +6,7 @@ Skills & Technologies
 
 CI/CD & Release Management
 
-Tools: Jenkins, Azure DevOps, GitHub Actions, GitLab CI/CD, Argo CD
-
+Tools: Jenkins, Azure DevOps, GitHub Actions, GitLab CI/CD
 Repositories: Git, Bitbucket, JFrog Artifactory
 
 Build Tools: Maven, Gradle
@@ -15,8 +14,6 @@ Build Tools: Maven, Gradle
 Containerization & Orchestration
 
 Tools: Docker, Kubernetes
-
-Service Management: Helm, Kustomize
 
 Deployment Strategies: Blue-Green, Canary, Rolling Updates
 
@@ -32,13 +29,13 @@ Security & Compliance
 
 Security Scanners: Fortify, BlackDuck, Checkmarx, Snyk
 
-Access Management: IAM roles, RBAC policies
+Access Management: IAM roles
 
 Monitoring & Logging
 
-Tools: Dynatrace, Splunk, Grafana, Prometheus
+Tools: Dynatrace, Splunk, Grafana
 
-Log Aggregation: ELK Stack, Fluentd
+
 
 Experience
 
@@ -54,17 +51,11 @@ Kubernetes & Cloud Deployments
 
 Deployed and managed containerized applications using Kubernetes.
 
-Implemented auto-scaling and monitoring for cloud-native applications.
-
-Optimized cloud costs by leveraging Kubernetes cluster scaling strategies.
-
 Security & Compliance
 
 Ensured compliance with security best practices for application deployments.
 
 Integrated vulnerability scanning tools in the DevOps pipeline.
-
-Enforced RBAC policies and access controls for Kubernetes workloads.
 
 Future Learning & Goals
 
