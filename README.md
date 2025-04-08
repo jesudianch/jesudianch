@@ -19,7 +19,7 @@ Deployment Strategies: Blue-Green, Canary, Rolling Updates
 
 Cloud & Infrastructure Automation
 
-Cloud Providers: GCP, Azure
+Cloud Providers: AWS, GCP, Azure
 
 Infrastructure as Code (IaC): Terraform, Ansible
 
