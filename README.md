@@ -71,6 +71,8 @@ GitHub: https://github.com/jesudianch/jesudianch
 
 LinkedIn: https://www.linkedin.com/in/jesudian-challapalli-b196a3200/
 
+Huggingface: https://huggingface.co/spaces/Jesudian/RAG-Chatbot
+
 Email: jchallapalli7@gmail.com
 
 
