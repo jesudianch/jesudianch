@@ -64,7 +64,7 @@ DevOps Engineer with 8 + years of hands-on experience designing, automating, and
 
 * LinkedIn: [linkedin.com/in/jesudian-challapalli-b196a3200](https://www.linkedin.com/in/jesudian-challapalli-b196a3200)
 * GitHub: [github.com/jesudianch](https://github.com/jesudianch)
-* Portfolio Blog: [jesudian.devops.blog](https://jesudian.devops.blog) *(if applicable)*
+
 
 ---
 
