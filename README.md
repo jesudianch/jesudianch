@@ -8,7 +8,7 @@
 
 ## 📋 Professional Summary
 
-DevOps Engineer with 5 + years of hands-on experience designing, automating, and optimizing cloud-native solutions, CI/CD pipelines, and release processes. Proven track record in AWS, Azure, GCP, Kubernetes, Terraform, and automation scripting to drive reliability, scalability, and security. Passionate about continuous improvement, infrastructure as code (IaC), and DevSecOps practices in financial services and enterprise environments.
+DevOps Engineer with 6 + years of hands-on experience designing, automating, and optimizing cloud-native solutions, CI/CD pipelines, and release processes. Proven track record in AWS, Azure, GCP, Kubernetes, Terraform, and automation scripting to drive reliability, scalability, and security. Passionate about continuous improvement, infrastructure as code (IaC), and DevSecOps practices in financial services and enterprise environments.
 
 ---
 
